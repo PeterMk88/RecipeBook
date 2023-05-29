@@ -1,0 +1,8 @@
+C:\Users\peter\source\repos\RecipeBook\RecipeBook\bin\Debug\RecipeBook.exe.config
+C:\Users\peter\source\repos\RecipeBook\RecipeBook\bin\Debug\RecipeBook.exe
+C:\Users\peter\source\repos\RecipeBook\RecipeBook\bin\Debug\RecipeBook.pdb
+C:\Users\peter\source\repos\RecipeBook\RecipeBook\obj\Debug\RecipeBook.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\RecipeBook\RecipeBook\obj\Debug\RecipeBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\peter\source\repos\RecipeBook\RecipeBook\obj\Debug\RecipeBook.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\RecipeBook\RecipeBook\obj\Debug\RecipeBook.exe
+C:\Users\peter\source\repos\RecipeBook\RecipeBook\obj\Debug\RecipeBook.pdb
